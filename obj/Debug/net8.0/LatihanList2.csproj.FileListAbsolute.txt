@@ -1,0 +1,15 @@
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN13\LatihanList2\obj\Debug\net8.0\LatihanList2.csproj.AssemblyReference.cache
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN13\LatihanList2\obj\Debug\net8.0\LatihanList2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN13\LatihanList2\obj\Debug\net8.0\LatihanList2.AssemblyInfoInputs.cache
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN13\LatihanList2\obj\Debug\net8.0\LatihanList2.AssemblyInfo.cs
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN13\LatihanList2\obj\Debug\net8.0\LatihanList2.csproj.CoreCompileInputs.cache
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN13\LatihanList2\bin\Debug\net8.0\LatihanList2.exe
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN13\LatihanList2\bin\Debug\net8.0\LatihanList2.deps.json
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN13\LatihanList2\bin\Debug\net8.0\LatihanList2.runtimeconfig.json
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN13\LatihanList2\bin\Debug\net8.0\LatihanList2.dll
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN13\LatihanList2\bin\Debug\net8.0\LatihanList2.pdb
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN13\LatihanList2\obj\Debug\net8.0\LatihanList2.dll
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN13\LatihanList2\obj\Debug\net8.0\refint\LatihanList2.dll
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN13\LatihanList2\obj\Debug\net8.0\LatihanList2.pdb
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN13\LatihanList2\obj\Debug\net8.0\LatihanList2.genruntimeconfig.cache
+D:\Amikom\VSCODE\PEMROG\PERTEMUAN13\LatihanList2\obj\Debug\net8.0\ref\LatihanList2.dll
